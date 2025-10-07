@@ -1,0 +1,188 @@
+{
+  "nav": {
+    "home": "Home",
+    "experience": "Experience",
+    "skills": "Skills",
+    "education": "Education",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Software Engineer Fullstack",
+    "subtitle": "Building modern web applications with passion and expertise",
+    "cta": "View My Work"
+  },
+  "contact": {
+    "name": "Jean Portalis",
+    "title": "Software Engineer Fullstack",
+    "email": "jean.portalis@laposte.net",
+    "emailTitle": "Email",
+    "phoneTitle": "Phone",
+    "phone": "+33 6 58 96 62 64",
+    "address": "142 impasse des Nympheas",
+    "city": "Nantes, 44300",
+    "country": "France",
+    "location": "Location",
+    "heading": "Get In Touch",
+    "description": "Feel free to reach out for collaborations or just a friendly hello",
+    "sendEmail": "Send message"
+  },
+  "sections": {
+    "experience": "Work Experience",
+    "internships": "Internships",
+    "skills": "Skills & Technologies",
+    "education": "Education",
+    "keyAchievements": "Key Achievements"
+  },
+  "interests": "Interests",
+  "cv": {
+    "download": "Download CV",
+    "loading": "Loading..."
+  },
+  "experience": {
+    "marjory": {
+      "company": "Marjory",
+      "experiences": [
+        {
+          "title": "Fullstack Angular / Node.js",
+          "description": "SaaS Data Integration Platform - No Code/Low Code Solution",
+          "highlights": [
+            "Development of no-code/low-code visual data flow editor",
+            "Built data connectors (Snowflake, databases, APIs) with Node.js",
+            "Optimize performance for ETL"
+          ]
+        }
+      ]
+    },
+    "niji": {
+      "company": "Niji",
+      "experiences": [
+        {
+          "title": "Team lead - Node.js microservices",
+          "description": "E-commerce Order Flow Management System",
+          "highlights": [
+            "Production and incident monitoring management",
+            "Led development team managing 80+ automated order lifecycle flows",
+            "Integrate payment gateway",
+            "Monorepo structure with shared libraries for code reusability"
+          ]
+        },
+        {
+          "title": "Angular",
+          "description": "Technical intranet for Industrial group",
+          "highlights": [
+            "Angular migrations, refactoring, unit testing",
+            "Upskilling junior developer",
+            "Multi-role management with permissions"
+          ]
+        }
+      ]
+    },
+    "capgemini": {
+      "company": "Capgemini",
+      "experiences": [
+        {
+          "title": "Fullstack Angular / Node.js / AWS Lambda",
+          "description": "Agile Project - Web app to sell luxury product (B2C)",
+          "highlights": [
+            "Built modern B2C e-commerce platform for luxury products",
+            "Implemented state management with NgRx",
+            "Developed serverless backend with AWS Lambda"
+          ]
+        },
+        {
+          "title": "Fullstack Angular / Node.js (Express)",
+          "description": "Agile Project - Web app to sell gas all over Europe through distributors",
+          "highlights": [
+            "Designed and developed fullstack B2B platform for European gas distribution",
+            "Frontend performance problematics",
+            "Handle offline mode for mobile use",
+            "Asynchrone features with AWS Lambda (orders, pdf generation, etc)"
+          ]
+        },
+        {
+          "title": "Drupal 7 PHP E-commerce Platform",
+          "description": "E-commerce platform to sell gas (B2B)",
+          "highlights": [
+            "Developed B2B e-commerce platform for gas sales",
+            "Integrated Product Information Management (PIM) system",
+            "Customized Drupal modules for business requirements"
+          ]
+        }
+      ]
+    }
+  },
+  "internships": [
+    {
+      "period": "May - July 2017",
+      "title": "Software Engineer Fullstack",
+      "company": "University of Kuala Lumpur",
+      "location": "Malaysia",
+      "description": "Web app to display data from power meter - Thinkspeak",
+      "highlights": [
+        "Developed IoT dashboard for power meter data visualization",
+        "Integrated Thinkspeak API for real-time monitoring"
+      ]
+    },
+    {
+      "period": "July 2016",
+      "title": "Android Developer",
+      "company": "PhysioK Sport",
+      "description": "Android app - Help physiotherapist to remember pathology's patient and decrease time diagnosis",
+      "highlights": [
+        "Created mobile application for medical professionals",
+        "Improved patient diagnosis workflow efficiency"
+      ]
+    },
+    {
+      "period": "March - June 2015",
+      "title": "Research Intern",
+      "company": "University of Plymouth",
+      "location": "UK",
+      "description": "Simulation of directional antenna",
+      "highlights": [
+        "Performed network simulation research",
+        "Analyzed antenna directional patterns"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Engineering Degree",
+      "institution": "Polytech Nantes",
+      "location": "University of Nantes",
+      "topics": [
+        "Algorithm & Object-Oriented Programming (Java, Python, C++, Android)",
+        "Network & System Administration",
+        "Image Analysis & Artificial Intelligence",
+        "Mathematics"
+      ]
+    },
+    {
+      "degree": "DUT in Electrical Engineering and Industrial IT",
+      "institution": "University of Angers",
+      "location": "Angers",
+      "topics": [
+        "Algorithm & UML & SQL (C/C++)",
+        "Electronics & Automation",
+        "Electrical Engineering"
+      ]
+    }
+  ],
+  "skills": {
+    "programmingLanguages": "Programming Languages",
+    "frameworks": "Frameworks",
+    "toolsDevOps": "Tools & DevOps",
+    "databases": "Databases",
+    "languages": "Languages",
+    "systems": "Systems"
+  },
+  "skillsData": {
+    "programmingLanguages": ["TypeScript", "JavaScript", "PHP", "Python", "Java", "C"],
+    "frameworks": ["Angular", "Node.js", "Drupal 7", "Express", "RxJS", "NgRx"],
+    "toolsDevOps": ["Git", "Jenkins", "Docker", "GitLab", "AWS Lambda"],
+    "databases": ["MongoDB", "Redis", "MySQL", "ElasticSearch"],
+    "languages": ["French (Native)", "English (Advanced - TOEIC 840)", "Spanish (Basic)"],
+    "systems": ["Linux", "macOS", "Windows"]
+  },
+  "interestsData": ["Tennis (1/6)", "Padel (170 FR)", "Hiking", "Astronomy"]
+}

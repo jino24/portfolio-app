@@ -1,0 +1,188 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "experience": "Expérience",
+    "skills": "Compétences",
+    "education": "Formation",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Ingénieur Logiciel Fullstack",
+    "subtitle": "Création d'applications web modernes avec passion et expertise",
+    "cta": "Voir mes réalisations"
+  },
+  "contact": {
+    "name": "Jean Portalis",
+    "title": "Ingénieur Logiciel Fullstack",
+    "email": "jean.portalis@laposte.net",
+    "emailTitle": "Email",
+    "phoneTitle": "Téléphone",
+    "phone": "+33 6 58 96 62 64",
+    "address": "142 impasse des Nympheas",
+    "city": "Nantes, 44300",
+    "country": "France",
+    "location": "Localisation",
+    "heading": "Me Contacter",
+    "description": "N'hésitez pas à me contacter pour des collaborations ou simplement pour échanger",
+    "sendEmail": "Envoyer un mail"
+  },
+  "sections": {
+    "experience": "Expérience Professionnelle",
+    "internships": "Stages",
+    "skills": "Compétences & Technologies",
+    "education": "Formation",
+    "keyAchievements": "Réalisations Clés"
+  },
+  "interests": "Centres d'intérêt",
+  "cv": {
+    "download": "Télécharger le CV",
+    "loading": "Chargement..."
+  },
+  "experience": {
+    "marjory": {
+      "company": "Marjory",
+      "experiences": [
+        {
+          "title": "Fullstack Angular / Node.js",
+          "description": "Plateforme SaaS d'intégration de données - Solution No Code/Low Code",
+          "highlights": [
+            "Développement d'un éditeur visuel de flux de données no-code/low-code",
+            "Création de connecteurs de données (Snowflake, bases de données, APIs) avec Node.js",
+            "Optimisation de performance pour de la manipulation de données"
+          ]
+        }
+      ]
+    },
+    "niji": {
+      "company": "Niji",
+      "experiences": [
+        {
+          "title": "Team lead - Microservices Node.js",
+          "description": "Système de gestion de flux de commandes e-commerce",
+          "highlights": [
+            "Gestion de la production et des incidents",
+            "Team lead d'une équipe gérant plus de 80 flux automatisés du cycle de vie des commandes",
+            "Intégration de passerelles de paiement",
+            "Structure monorepo avec bibliothèques partagées pour la réutilisabilité du code"
+          ]
+        },
+        {
+          "title": "Angular",
+          "description": "Intranet technique pour groupe industriel",
+          "highlights": [
+            "Migrations Angular, refactoring, tests unitaires",
+            "Formation d'un développeur junior",
+            "Gestion multi-rôles avec permissions"
+          ]
+        }
+      ]
+    },
+    "capgemini": {
+      "company": "Capgemini",
+      "experiences": [
+        {
+          "title": "Fullstack Angular / Node.js / AWS Lambda",
+          "description": "Projet Agile - Application web de vente de produits de luxe (B2C)",
+          "highlights": [
+            "Construction d'une plateforme e-commerce B2C moderne pour produits de luxe",
+            "Implémentation de la gestion d'état avec NgRx",
+            "Développement d'un backend serverless avec AWS Lambda"
+          ]
+        },
+        {
+          "title": "Fullstack Angular / Node.js (Express)",
+          "description": "Projet Agile - Application web de vente de gaz en Europe via distributeurs",
+          "highlights": [
+            "Conception et développement d'une plateforme B2B fullstack",
+            "Résolution de problématique de performance frontend",
+            "Gestion offline de l'app pour une utilisation mobile",
+            "Fonctionnalités asynchrones avec les Lambda AWS (commandes, pdf, etc)"
+          ]
+        },
+        {
+          "title": "Plateforme e-commerce Drupal 7 PHP",
+          "description": "Plateforme e-commerce de vente de gaz (B2B)",
+          "highlights": [
+            "Développement d'une plateforme e-commerce B2B pour la vente de gaz",
+            "Intégration d'un système de gestion des informations produits (PIM)",
+            "Personnalisation de modules Drupal selon les besoins métier"
+          ]
+        }
+      ]
+    }
+  },
+  "internships": [
+    {
+      "period": "Mai - Juillet 2017",
+      "title": "Ingénieur Logiciel Fullstack",
+      "company": "Université de Kuala Lumpur",
+      "location": "Malaisie",
+      "description": "Application web pour afficher les données d'un compteur électrique - Thinkspeak",
+      "highlights": [
+        "Développement d'un tableau de bord IoT pour la visualisation des données de compteurs électriques",
+        "Intégration de l'API Thinkspeak pour le suivi en temps réel"
+      ]
+    },
+    {
+      "period": "Juillet 2016",
+      "title": "Développeur Android",
+      "company": "PhysioK Sport",
+      "description": "Application Android - Aide aux kinésithérapeutes pour mémoriser les pathologies des patients et réduire le temps de diagnostic",
+      "highlights": [
+        "Création d'une application mobile pour professionnels de santé",
+        "Amélioration de l'efficacité de diagnostic des patients"
+      ]
+    },
+    {
+      "period": "Mars - Juin 2015",
+      "title": "Stagiaire en Recherche",
+      "company": "Université de Plymouth",
+      "location": "Royaume-Uni",
+      "description": "Simulation d'antenne directionnelle",
+      "highlights": [
+        "Réalisation de recherches sur la simulation de réseaux",
+        "Analyse des schémas directionnels d'antennes"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Diplôme d'Ingénieur",
+      "institution": "Polytech Nantes",
+      "location": "Université de Nantes",
+      "topics": [
+        "Algorithmique & Programmation Orientée Objet (Java, Python, C++, Android)",
+        "Administration Réseau & Système",
+        "Analyse d'Images & Intelligence Artificielle",
+        "Mathématiques"
+      ]
+    },
+    {
+      "degree": "DUT Génie Électrique et Informatique Industrielle",
+      "institution": "Université d'Angers",
+      "location": "Angers",
+      "topics": [
+        "Algorithmique & UML & SQL (C/C++)",
+        "Électronique & Automatisme",
+        "Génie Électrique"
+      ]
+    }
+  ],
+  "skills": {
+    "programmingLanguages": "Langages de Programmation",
+    "frameworks": "Frameworks",
+    "toolsDevOps": "Outils & DevOps",
+    "databases": "Bases de Données",
+    "languages": "Langues",
+    "systems": "Systèmes"
+  },
+  "skillsData": {
+    "programmingLanguages": ["TypeScript", "JavaScript", "PHP", "Python", "Java"],
+    "frameworks": ["Angular", "Node.js", "React native", "Drupal 7", "RxJS", "NgRx"],
+    "toolsDevOps": ["Git", "Jenkins", "Docker", "GitLab", "AWS Lambda", "Datadog"],
+    "databases": ["MongoDB", "Kafka", "Redis", "MySQL", "ElasticSearch"],
+    "languages": ["Français (Natif)", "Anglais (Avancé - TOEIC 840)", "Espagnol (Basique)"],
+    "systems": ["Linux", "macOS", "Windows"]
+  },
+  "interestsData": ["Tennis (1/6)", "Padel (170 FR)", "Randonnée", "Astronomie"]
+}
