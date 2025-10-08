@@ -49,7 +49,7 @@ export const Navigation = () => {
               isScrolled ? 'text-teal-600' : 'text-white'
             }`}
           >
-            JP
+            Jean Portalis
           </a>
 
           {/* Desktop Navigation */}

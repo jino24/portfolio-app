@@ -40,7 +40,7 @@ export interface Contact {
 export const contactData: Contact = {
   name: "Jean Portalis",
   title: "Software Engineer Fullstack",
-  email: "jean.portalis@laposte.net",
+  email: "portalis.jean@gmail.com",
   phone: "+33 6 58 96 62 64",
   address: "142 impasse des Nympheas",
   city: "Nantes, 44300",
