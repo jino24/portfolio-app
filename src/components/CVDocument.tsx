@@ -209,8 +209,6 @@ interface CVDocumentProps {
     name: string;
     title: string;
     email: string;
-    phone: string;
-    address: string;
     city: string;
     country: string;
     sections: {
@@ -259,9 +257,6 @@ export const CVDocument = ({ translations, profileImageUrl }: CVDocumentProps) =
           <View style={styles.contactInfo}>
             <View style={styles.contactItem}>
               <Text>{translations.email}</Text>
-            </View>
-            <View style={styles.contactItem}>
-              <Text>{translations.phone}</Text>
             </View>
             <View style={styles.contactItem}>
               <Text>{translations.city}, {translations.country}</Text>

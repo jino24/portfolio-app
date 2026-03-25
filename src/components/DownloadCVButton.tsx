@@ -11,8 +11,6 @@ export const DownloadCVButton = () => {
     name: t('contact.name'),
     title: t('contact.title'),
     email: t('contact.email'),
-    phone: t('contact.phone'),
-    address: t('contact.address'),
     city: t('contact.city'),
     country: t('contact.country'),
     sections: {
